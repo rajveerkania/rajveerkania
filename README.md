@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajveer Kania</h1>
-<h3 align="center">A Computer Science aspirant from India</h3>
+<h3 align="center">A Computer Science Aspirant from India</h3>
 <br><br>
 
 - 🔭 I’m currently working on **Artificial Intelligence Targetting System**
