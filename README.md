@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [PriceWise](https://github.com/rajveerkania/pricewise)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajveerkania?tab=repositories]([https://github.com/rajveerkania](https://github.com/rajveerkania?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/rajveerkania?tab=repositories]([https://github.com/rajveerkania?tab=repositories])
 
 - 💬 Ask me about **Django, Node.js, Linux**
 
