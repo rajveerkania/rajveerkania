@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on [PriceWise](https://github.com/rajveerkania/pricewise)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajveerkania?tab=repositories](https://github.com/rajveerkania?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/rajveerkania?tab=repositories)
 
 - 💬 Ask me about **Django, Node.js, React.js, Linux**
 
 - 📫 How to reach me **rajveerkania02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19p4I7sgGYYRg6V7reX9X8buCMGRQUmPp/view?usp=drive_link](https://drive.google.com/file/d/19p4I7sgGYYRg6V7reX9X8buCMGRQUmPp/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19p4I7sgGYYRg6V7reX9X8buCMGRQUmPp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
