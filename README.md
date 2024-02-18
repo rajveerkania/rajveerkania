@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajveerkania02@gmail.com**
 
-- 📄 Know about my experiences [Resume]((https://drive.google.com/file/d/19p4I7sgGYYRg6V7reX9X8buCMGRQUmPp/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/19p4I7sgGYYRg6V7reX9X8buCMGRQUmPp/view?usp=drive_link]((https://drive.google.com/file/d/19p4I7sgGYYRg6V7reX9X8buCMGRQUmPp/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
