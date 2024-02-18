@@ -2,15 +2,15 @@
 <h3 align="center">A Computer Science Aspirant from India</h3>
 <br><br>
 
-- 🔭 I’m currently working on **Artificial Intelligence Targetting System**
+- 🔭 I’m a Full Stack Developer**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on [PriceWise](https://github.com/rajveerkania/pricewise)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajveerkania?tab=repositories](https://github.com/rajveerkania?tab=repositories)
 
-- 💬 Ask me about **Django, Node.js, Linux**
+- 💬 Ask me about **Django, Node.js, React.js, Linux**
 
 - 📫 How to reach me **rajveerkania02@gmail.com**
 
