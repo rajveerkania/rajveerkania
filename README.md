@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Aspirant from India</h3>
 <br><br>
 
-- 🔭 I’m a Full Stack Developer\*\*
+- 🔭 I’m a Full Stack Developer**
 
 - 🌱 I’m currently learning **Next.js**
 
