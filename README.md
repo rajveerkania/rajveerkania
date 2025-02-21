@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Full Stack Developer**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on [task-manager](https://github.com/rajveerkania/task-manager)
 
@@ -12,9 +12,11 @@
 
 - 💬 Ask me about **Next.js, Django, Node.js, React.js, Linux**
 
+- 🌐 Personal Portfolio [rajveer.space](https://rajveer.space/)
+
 - 📫 How to reach me **rajveerkania02@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jxhxHnUjAour_Wh3bkCXGtWIBzuYjzX0/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1jxhxHnUjAour_Wh3bkCXGtWIBzuYjzX0/view?usp=drive_link](https://drive.usercontent.google.com/download?id=1gHGTQpkqni8Jo4R6A_dL5aqj8i_gAVea&export=download&authuser=0&confirm=t&uuid=1f629c4d-5709-438e-bd5d-d8639d64b441&at=AEz70l6bSRsTPG_oGVagZbT5ixgn:1740087883127))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
