@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on [task-manager](https://github.com/rajveerkania/task-manager)
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rajveerkania?tab=repositories)
 
 - 💬 Ask me about **Next.js, Django, Node.js, React.js, Linux**
